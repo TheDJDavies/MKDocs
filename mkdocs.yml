@@ -1,0 +1,32 @@
+site_name: Iwân Notes
+theme:
+  name: material
+  palette:
+    scheme: slate
+  features:
+    - navigation-instant 
+
+markdown_extensions:
+  - pymdownx.keys
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Python Notes:
+    - Lesson 1 - Download Python3: 'Lesson1.md'
+    - Lesson 2 - Python Interpreter: 'Lesson2.md'
+    - Lesson 3 - Code Editors: 'Lesson3.md'
+    - Lesson 4 - My First Python Program: 'Lesson4.md'
+    - Lesson 5 - Python Extension: 'Lesson5.md'
+    - Lesson 6 - Linting Code: 'Lesson6.md'
+    - Lesson 7 - Formatting Code: 'Lesson7.md'
+    - Lesson 8 - Running Python Code: 'Lesson8.md'
+    - Lesson 9 - Python Implementations: 'Lesson9.md'
+    - Lesson 10 - How Python Code is Executed: 'Lesson10.md'
+    - Lesson 11 - Quiz 1: 'Lesson11.md'
+    - Lesson 12 - Variables: 'Lesson12.md'
+    - Lesson 13 - Variable Names: 'Lesson13.md'
