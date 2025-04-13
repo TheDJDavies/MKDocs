@@ -4,7 +4,7 @@ theme:
   palette:
     scheme: slate
   features:
-    - navigation-instant 
+    - navigation-instant
 
 markdown_extensions:
   - pymdownx.keys
@@ -16,6 +16,7 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 nav:
+  - Tag Index: tags.md
   - Python Notes:
     - Lesson 1 - Download Python3: 'Lesson1.md'
     - Lesson 2 - Python Interpreter: 'Lesson2.md'
@@ -30,3 +31,7 @@ nav:
     - Lesson 11 - Quiz 1: 'Lesson11.md'
     - Lesson 12 - Variables: 'Lesson12.md'
     - Lesson 13 - Variable Names: 'Lesson13.md'
+
+plugins:
+  - tags
+  - search

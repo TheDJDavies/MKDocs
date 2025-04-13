@@ -1,3 +1,10 @@
+---
+tags:
+    - Expression
+    - Linting
+    - Syntax Error
+---
+
 # Lesson 11 - Quiz 1
 
 ??? notes "What is an expression?"

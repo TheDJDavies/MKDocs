@@ -1,3 +1,11 @@
+---
+tags:
+    - Expression
+    - Value
+    - Boolean
+    - Syntax Error
+---
+
 # Lesson 2 - Python Interpreter 
 
 As in Task 1, type `python` into the terminal to activate

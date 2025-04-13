@@ -1,3 +1,8 @@
+---
+tags:
+    - Implementations
+---
+
 # Lesson 9 - Python Implementations 
 
 Python = language OR Implementation

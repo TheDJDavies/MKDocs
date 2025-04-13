@@ -1,3 +1,9 @@
+---
+tags:
+    - Variable
+    - PEP8
+---
+
 # Lesson 13 - Variable Names
 
 Don't use shorthand for variable names (think like lab books)

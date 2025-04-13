@@ -1,3 +1,10 @@
+---
+tags:
+    - Function
+    - String
+    - Calling
+    - Expression
+---
 # Lesson 4 - My First Python Program
 
 Created a new folder: `/home/iwan/Documents/Python Notes/HelloWorld`

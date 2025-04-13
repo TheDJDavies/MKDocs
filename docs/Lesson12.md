@@ -1,3 +1,12 @@
+---
+tags:
+    - Variable
+    - String
+    - Boolean
+    - Floating Point Number
+    - Integer
+---
+
 # Lesson 12 - Variables
 
 Variables will store data in its memory

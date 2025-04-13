@@ -1,3 +1,8 @@
+---
+tags:
+    - Palette
+---
+
 # Lesson 8 - Running Python Code 
 
 In the terminal, type `python` followed by the name of the file

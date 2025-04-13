@@ -1,3 +1,9 @@
+---
+tags:
+    - Code Editor
+    - IDE
+---
+
 # Lesson 3 - Code Editors
 
 Writing python code can be done using either:

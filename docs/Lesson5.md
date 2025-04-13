@@ -1,3 +1,10 @@
+---
+tags:
+    - IDE
+    - Extensions
+    - Linting
+---
+
 # Lesson 5 - Python Extension
 
 Convert VSCode to an IDE using an extension called `python`

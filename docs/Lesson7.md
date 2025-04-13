@@ -1,3 +1,10 @@
+---
+tags:
+ - PEP
+ - PEP8
+ - Extension
+ - Palette
+---
 # Lesson 7 - Formatting Code
 
 Python Enhancement Proposals (PEPs)

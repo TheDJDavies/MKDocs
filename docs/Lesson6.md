@@ -1,3 +1,8 @@
+---
+tags:
+    - Linting
+---
+
 # Lesson 6 - Linting Code
 
 1st linting example did not work on mmy VSCode. Other extentions interfered with the linting
